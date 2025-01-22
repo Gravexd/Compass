@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 version '2.0.0'
-description 'https://github.com/thelindat/compass'
+description 'https://github.com/Gravexd/compass'
 
 
 client_scripts {
